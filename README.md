@@ -11,9 +11,7 @@ A real-time anonymous chat application built with **Flask** and **Socket.IO**, f
 - 🔄 Real-time messaging using **Flask-SocketIO**
 - 🙋‍♂️ Gender selection on start (Male/Female)
 - 🧑‍🎨 Avatars based on selected gender
-- 🌙 Dark mode toggle
 - 😄 Emoji support in messages
-- 🔔 Sound notifications for incoming messages
 - 💬 Messenger-style reply bubbles
 - ↩️ Specific message reply functionality
 - 📱 Fully responsive (Mobile + Desktop)
